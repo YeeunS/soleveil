@@ -1,0 +1,9 @@
+main:
+  - title: Overview
+    url: /overview
+  - title: Explore
+    url: /explore
+  - title: Art
+    url: /art
+  - title: Contact
+    url: /contact
