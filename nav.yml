@@ -1,8 +1,8 @@
 main:
-  - title: Overview
-    url: /overview
   - title: Explore
     url: /explore
+  - title: Development
+    url: /development
   - title: Art
     url: /art
   - title: Contact
