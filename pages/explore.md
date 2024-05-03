@@ -1,11 +1,9 @@
 ---
-title: ''
+title: Explore
 layout: single
-permalink: '/explore'
+permalink: /explore/
 ---
 
-# Explore
+## Explore
 
-
-
----
+Content about exploring aspects of the game, features, or related content.
