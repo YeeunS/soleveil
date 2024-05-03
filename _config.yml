@@ -1,5 +1,37 @@
 title: Sole Veil
-description: 2D Horror Combat Game
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-midnight
+subtitle: 2D Horror Combat Game
+description: Easy Meetups in UH Manoa
+github_username: uhmanoalink
+minimal_mistakes_skin: aqua
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+include:
+  - _pages
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/soleveil'
+
+defaults:
+  # _pages
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: single
