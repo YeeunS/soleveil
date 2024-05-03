@@ -5,6 +5,8 @@ permalink: /
 classes: wide
 ---
 
+{% head.html %}
+
 ## Overview
 
 
